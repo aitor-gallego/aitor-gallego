@@ -1,9 +1,10 @@
-# 👨‍💻 Sobre mí
+## Sobre mí
 
 Apasionado por el desarrollo, siempre dispuesto a aprender y mejorar mis habilidades. Busco crecer profesionalmente y dar lo mejor de mí. Las cualidades que destaco de mí son la adaptabilidad y la productividad.
+
 ---
 
-## 💡 Skills
+## Skills
 
 - **Lenguajes**: C# · Java · Kotlin · Dart
 - **Frameworks & Herramientas**: Flutter · Android Studio · Visual Studio · IntelliJ IDEA
@@ -12,7 +13,7 @@ Apasionado por el desarrollo, siempre dispuesto a aprender y mejorar mis habilid
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - **Email**: [aitorgalle@gmail.com](mailto:aitorgalle@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aitor-gallego](https://linkedin.com/in/aitor-gallego)
