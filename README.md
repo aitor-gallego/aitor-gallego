@@ -1,10 +1,10 @@
-> Sobre mí
+># Sobre mí
 
-Apasionado por el desarrollo, siempre dispuesto a aprender y mejorar mis habilidades. Busco crecer profesionalmente y dar lo mejor de mí. Las cualidades que destaco de mí son la adaptabilidad y la productividad.
+Passionate about software development, always willing to learn and improve my skills. I seek to grow professionally and give my best. The qualities I highlight about myself are adaptability and productivity.
 
 <br>
 
-> Skills
+># Skills
 
 #### Lenguajes
 
@@ -33,7 +33,7 @@ Apasionado por el desarrollo, siempre dispuesto a aprender y mejorar mis habilid
 
 <br>
 
-> Contacto
+># Contacto
 
 - **Email**: [aitorgalle@gmail.com](mailto:aitorgalle@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aitor-gallego](https://linkedin.com/in/aitor-gallego)
