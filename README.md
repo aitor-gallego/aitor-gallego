@@ -1,20 +1,18 @@
 # 👨‍💻 Sobre mí
 
-Apasionado por el desarrollo de software, siempre dispuesto a aprender y mejorar mis habilidades. Me motiva enfrentar nuevos retos, buscando crecer profesionalmente y dar lo mejor de mí en cada proyecto.
-
+Apasionado por el desarrollo, siempre dispuesto a aprender y mejorar mis habilidades. Busco crecer profesionalmente y dar lo mejor de mí. Las cualidades que destaco de mí son la adaptabilidad y la productividad.
 ---
 
 ## 💡 Skills
 
-- **Lenguajes**: Dart · Java · Python
-- **Frameworks & Herramientas**: Flutter · Android Studio · Visual Studio Code
-- **Control de versiones**: Git & GitHub · Amplios conocimientos
-- **Gestión de Proyectos**: Trello · Notion
+- **Lenguajes**: C# · Java · Kotlin · Dart
+- **Frameworks & Herramientas**: Flutter · Android Studio · Visual Studio · IntelliJ IDEA
+- **Control de versiones**: Git · GitHub
+- **Base de datos**: SQL · MariaDB · MongoDB
 
 ---
 
 ## 📫 Contacto
 
-- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **GitHub**: [github.com/tu-usuario](https://github.com/tu-usuario)
+- **Email**: [aitorgalle@gmail.com](mailto:aitorgalle@gmail.com)
+- **LinkedIn**: [linkedin.com/in/aitor-gallego](https://linkedin.com/in/aitor-gallego)
