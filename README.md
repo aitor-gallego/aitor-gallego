@@ -1,14 +1,10 @@
-><div style="text-align: left;">
-    <strong style="font-size: 30px;">Sobre mí</strong>
-</div>
+> Sobre mí
 
 Apasionado por el desarrollo, siempre dispuesto a aprender y mejorar mis habilidades. Busco crecer profesionalmente y dar lo mejor de mí. Las cualidades que destaco de mí son la adaptabilidad y la productividad.
 
 <br>
 
-><div style="text-align: left;">
-    <strong style="font-size: 30px;">Skills</strong>
-</div>
+> Skills
 
 #### Lenguajes
 
@@ -37,9 +33,7 @@ Apasionado por el desarrollo, siempre dispuesto a aprender y mejorar mis habilid
 
 <br>
 
-><div style="text-align: left;">
-    <strong style="font-size: 30px;">Contacto</strong>
-</div>
+> Contacto
 
 - **Email**: [aitorgalle@gmail.com](mailto:aitorgalle@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aitor-gallego](https://linkedin.com/in/aitor-gallego)
