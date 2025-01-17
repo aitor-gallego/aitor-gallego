@@ -1,7 +1,6 @@
 ># Sobre mí
 
-Apasionado por el desarrollo de software, siempre dispuesto a aprender y mejorar mis habilidades. Busco crecer profesionalmente y poder dar lo mejor de mí. Las cualidades que destaco de mí mismo son la productividad y la adaptablidad.
-
+Apasionado por el desarrollo de software, siempre dispuesto a aprender y mejorar mis habilidades. Busco crecer profesionalmente y dar lo mejor de mí.
 <br>
 
 ># Skills
