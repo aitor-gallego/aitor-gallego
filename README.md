@@ -1,6 +1,6 @@
 ># Sobre mí
 
-Passionate about software development, always willing to learn and improve my skills. I seek to grow professionally and give my best. The qualities I highlight about myself are adaptability and productivity.
+Apasionado por el desarrollo de software, siempre dispuesto a aprender y mejorar mis habilidades. Busco crecer profesionalmente y poder dar lo mejor de mí. Las cualidades que destaco de mí mismo son la productividad y la adaptablidad.
 
 <br>
 
